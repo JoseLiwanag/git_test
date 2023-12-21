@@ -1,1 +1,2 @@
 Hello world testing lang natin ito para ma check ko ano nangyari.
+Testing ulit ito para doon sa bagon paraan ng mag create ng message pag nag cocommit.
